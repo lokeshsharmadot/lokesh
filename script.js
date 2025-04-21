@@ -1,6 +1,6 @@
 function checkLogin() {
-    var username = document.getElementById("king").value;
-    var password = document.getElementById("01125").value;
+    var username = document.getElementById("username").value;
+    var password = document.getElementById("password").value;
 
     // Define the valid username and password
     var validUsername = "admin"; // Replace with your desired username
